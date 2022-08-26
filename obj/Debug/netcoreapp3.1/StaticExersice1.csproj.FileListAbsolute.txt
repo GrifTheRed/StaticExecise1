@@ -1,0 +1,14 @@
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/bin/Debug/netcoreapp3.1/StaticExersice1
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/bin/Debug/netcoreapp3.1/StaticExersice1.deps.json
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/bin/Debug/netcoreapp3.1/StaticExersice1.runtimeconfig.json
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/bin/Debug/netcoreapp3.1/StaticExersice1.runtimeconfig.dev.json
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/bin/Debug/netcoreapp3.1/StaticExersice1.dll
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/bin/Debug/netcoreapp3.1/StaticExersice1.pdb
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.csproj.AssemblyReference.cache
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.AssemblyInfoInputs.cache
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.AssemblyInfo.cs
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.csproj.CoreCompileInputs.cache
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.dll
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.pdb
+/Users/derekgriffin/Desktop/repos/StaticExersice1/StaticExersice1/obj/Debug/netcoreapp3.1/StaticExersice1.genruntimeconfig.cache
